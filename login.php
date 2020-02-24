@@ -7,7 +7,7 @@ require 'header.php';
 <head>
     <meta charset="UTF-8"0>
     <meta name="viewport" content="width=initial width-width,initial scale=0">
-    <title>Definition</title>
+    <title>Definition On</title>
 </head>
 <body>
 <div class="row">
