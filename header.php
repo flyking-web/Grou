@@ -17,7 +17,7 @@
 <body>
 <nav class="navbar navbar-expand-lg navbar-success bg-warning">
     <img src="static/images/index.png" alt="" style="height:40px;width:40px;">
-    <a class="navbar-brand" href="index.html">Housing 101</a>
+    <a class="navbar-brand" href="index.php">Housing 101</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -31,10 +31,13 @@
                 <a class="nav-link" href="#">About</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="signup_landlord.php">Signup</a>
+                <a class="nav-link" href="rent_customer.php">Signup</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="login.html">Login</a>
+                <a class="nav-link" href="login.php">Login</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="customers.php">Contact Us</a>
             </li>
 
         </ul>

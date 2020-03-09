@@ -16,6 +16,7 @@ require 'header.php';
         <div class="jumbotron">
             <h1>Please login...</h1>
             <p>Are you a <a href="login_customer.php"><span>Customer</span></a>or <a href="login_landlord.php"><span>Landlord</span></a></p>
+            <p>If you don't have an account <a href="rent_customer.php"><span>SignUp</span></a></p>
         </div>
     </div>
     <div class="col col-sm-3 col-md-3 col-lg-3 col-xl-3"></div>

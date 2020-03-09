@@ -40,6 +40,7 @@ if(isset($_POST['btn_signup'])){
 
 <!--start signing up form-->
 <div class="container">
+    <h1 style="text-align: center;">Sign Up as Landlord</h1>
     <div class="row">
         <div class="col-md-3 col-lg-3 col-xl-3"></div>
         <div class="col-md-6 col-lg-6 col-xl-6">
